@@ -25,7 +25,7 @@ Effective tracking and management of these risk factors help ensure the hospital
 ### Data Sources
 
 1. **EMR Data (Electronic Medical Records)**
-   - Stored in Azure SQL DB across multiple hospitals (different database instances). 
+   - Stored in **Azure SQL DB across multiple hospitals** (different database instances). 
    - Core tables:
      - `Patients`: Personal information, demographics, unique patient ID, contact details.
      - `Providers`: Doctor details including specialization, department, NPI (National Provider Identifier).
@@ -38,16 +38,19 @@ Effective tracking and management of these risk factors help ensure the hospital
      - Multiple hospitals may have different schemas; **surrogate keys and a common data model** are implemented to merge data cleanly.
 
 2. **Claims Data**
-   - Provided by payers/insurance companies as **flat files (CSV)** in a Landing Zone (Azure Data Lake Storage Gen2).
+   - Provided by payers/insurance companies as **flat files (CSV)** in a Landing Zone **Azure Data Lake Storage Gen2**.
    - Includes claim ID, transaction ID, patient ID, encounter ID, provider ID, service date, claim amount, paid amount, claim status.
    - Monthly updates; ingested to **Bronze layer** in Parquet format for further processing.
 
 3. **NPI Data**
-   - Public API providing up-to-date provider details with unique 10-digit National Provider Identifier.
+   - Retrieved via  **API** providing up-to-date provider details with unique 10-digit National Provider Identifier.
    - Enables validation and enrichment of provider information across hospital databases.
 
 4. **ICD Codes**
    - Standardized diagnosis codes and descriptions used to classify patient conditions.
-   - Retrieved via API and mapped to transactions/encounters to enable disease-specific analytics and KPIs.
+   - **Retrieved via API** and mapped to transactions/encounters to enable disease-specific analytics and KPIs.
+
+
+
 
 
