@@ -51,7 +51,7 @@ Effective tracking and management of these risk factors help ensure the hospital
    - **Retrieved via API** and mapped to transactions/encounters to enable disease-specific analytics and KPIs.
 
    
-![Architecture Diagram](Architecture.png)
+![Architecture Diagram](Healthcare Billing & Claims Analytics Platform/Architecture)
 
 
 
