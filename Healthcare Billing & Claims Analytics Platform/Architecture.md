@@ -8,4 +8,5 @@ Data is from different sources Azure SQL , public API ,  Azure Data Lake GEN 2 ,
 
 ### Data Warehouse Modelling Technique Used ###
 Snowflake Schema
+![Model](
 
