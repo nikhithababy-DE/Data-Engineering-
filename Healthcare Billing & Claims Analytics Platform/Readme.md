@@ -50,7 +50,8 @@ Effective tracking and management of these risk factors help ensure the hospital
    - Standardized diagnosis codes and descriptions used to classify patient conditions.
    - **Retrieved via API** and mapped to transactions/encounters to enable disease-specific analytics and KPIs.
 
-
+   
+![Architecture Diagram](Architecture.png)
 
 
 
