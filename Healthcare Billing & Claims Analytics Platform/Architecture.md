@@ -6,3 +6,6 @@
 ### Source ###
 Data is from different sources Azure SQL , public API ,  Azure Data Lake GEN 2 , Streaming Data
 
+### Data Warehouse Modelling Technique Used ###
+Snowflake Schema
+
