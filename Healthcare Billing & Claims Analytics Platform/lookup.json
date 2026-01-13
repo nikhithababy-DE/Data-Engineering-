@@ -1,1 +1,72 @@
-
+[
+    {
+        "Container": "hospitala",
+        "FilePath": null,
+        "FileName": "departments.csv",
+        "DatabaseName": "hospitala",
+        "TableName": "Departments"
+    },
+    {
+        "Container": "hospitala",
+        "FilePath": null,
+        "FileName": "providers.csv",
+        "DatabaseName": "hospitala",
+        "TableName": "Providers"
+    },
+    {
+        "Container": "hospitala",
+        "FilePath": null,
+        "FileName": "encounters.csv",
+        "DatabaseName": "hospitala",
+        "TableName": "Encounters"
+    },
+    {
+        "Container": "hospitala",
+        "FilePath": null,
+        "FileName": "patients.csv",
+        "DatabaseName": "hospitala",
+        "TableName": "Patients"
+    },
+    {
+        "Container": "hospitala",
+        "FilePath": null,
+        "FileName": "transactions.csv",
+        "DatabaseName": "hospitala",
+        "TableName": "Transactions"
+    },
+    {
+        "Container": "hospitalb",
+        "FilePath": null,
+        "FileName": "departments.csv",
+        "DatabaseName": "hospitalahospitalb",
+        "TableName": "Departments"
+    },
+    {
+        "Container": "hospitalb",
+        "FilePath": null,
+        "FileName": "providers.csv",
+        "DatabaseName": "hospitalahospitalb",
+        "TableName": "Providers"
+    },
+    {
+        "Container": "hospitalb",
+        "FilePath": null,
+        "FileName": "encounters.csv",
+        "DatabaseName": "hospitalahospitalb",
+        "TableName": "Encounters"
+    },
+    {
+        "Container": "hospitalb",
+        "FilePath": null,
+        "FileName": "patients.csv",
+        "DatabaseName": "hospitalahospitalb",
+        "TableName": "Patients"
+    },
+    {
+        "Container": "hospitalb",
+        "FilePath": null,
+        "FileName": "transactions.csv",
+        "DatabaseName": "hospitalahospitalb",
+        "TableName": "Transactions"
+    }
+]
