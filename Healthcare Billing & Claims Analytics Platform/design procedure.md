@@ -11,6 +11,10 @@
 3, Created **Generic Datasets** for uploading csv ,parquet files to ADLS GEN2 , dataset for azure sql and dataset for azure databricks
 <img width="1092" height="394" alt="image" src="https://github.com/user-attachments/assets/169c979a-5848-4f25-a340-1ca19db56311" />
 
+4. Create pipeline to transfer data from sql to adls gen 2
+   <img width="943" height="674" alt="image" src="https://github.com/user-attachments/assets/8080e6fb-cf7a-4e59-bead-38a1a2b7f51c" />
+
+
 
       
       
