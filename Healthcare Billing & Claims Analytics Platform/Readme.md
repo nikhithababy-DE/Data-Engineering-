@@ -1,7 +1,7 @@
-# 🏥 End-to-End Healthcare Revenue Cycle Management (RCM) Data Engineering Pipeline on Azure
+# 🏥 End-to-End Healthcare Billing and Claim Analytics Platform on Azure
 
 ## 📌 Project Overview
-Healthcare Revenue Cycle Management (RCM) is the financial lifecycle that healthcare providers use to track patient encounters, insurance claims, and payments from scheduling to final reimbursement.
+Healthcare Billing and Claim Analytics is the financial lifecycle that healthcare providers use to track patient encounters, insurance claims, and payments from scheduling to final reimbursement.
 
 This project builds an enterprise-grade, scalable data engineering platform on Azure to monitor revenue leakage, reduce claim denials, and track high-risk financial accounts using modern Medallion Architecture (Bronze → Silver → Gold).
 
