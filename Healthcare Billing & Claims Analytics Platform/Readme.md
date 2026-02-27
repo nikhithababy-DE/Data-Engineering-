@@ -157,4 +157,15 @@ Detailed design notes available in: `docs/design-decisions.md`
 
 ---
 
-## 📁 Repository Structure
+## 🏅 Key Achievements
+- Built an enterprise-grade Healthcare RCM analytics platform on Azure
+- Designed scalable ingestion framework supporting multiple hospital EMR systems
+- Enabled financial risk monitoring for AR aging and claim denials
+- Implemented governance, lineage, and secure data access using Unity Catalog
+
+---
+
+## 👩‍💻 Author
+**Nikhitha Baby**  
+Senior Data Engineer | Databricks | Spark | Azure | Healthcare Data Engineering  
+5+ years of experience building scalable batch & streaming data pipelines for healthcare and financial analytics.
