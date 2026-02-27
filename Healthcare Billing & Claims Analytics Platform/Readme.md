@@ -59,7 +59,7 @@ This project solves the problem by creating a unified, governed data platform fo
 ---
 
 ## 📂 Data Sources
-
+Detailed Description for Dataset : [Design Decisions](Docs/Dataset%20description.md)
 ### 1. EMR Data (Azure SQL DB)
 Tables:
 - Patients
