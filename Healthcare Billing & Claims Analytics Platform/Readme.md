@@ -106,6 +106,8 @@ Monthly incremental ingestion into Bronze layer.
 
 ## 🔄 End-to-End Data Pipeline Flow
 
+Step by Step Instructions to create worflow with images : [Design Procedure](Docs/Detail%20design%20procedure%step%20by%20step.md)
+
 ### Step 1: EMR to Landing
 - Ingest patient, provider, encounter, and transaction data
 - Use dynamic ADF pipelines with configuration-driven ingestion
