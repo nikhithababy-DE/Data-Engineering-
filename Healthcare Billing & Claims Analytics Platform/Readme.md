@@ -150,7 +150,8 @@ Business-ready curated tables created:
 
 ---
 
-## 🧠 Design Decisions
+## 🧠 Design Decisions and Trade offs
+Detailed Reason for Each decision making and trade off : [Design Decisions and Trade off](Docs/tools%20and%20tradeoff.md)
 - Adopted Medallion Architecture for data quality layering
 - Used Delta Lake for ACID compliance and incremental processing
 - Implemented Unity Catalog for centralized governance & lineage
