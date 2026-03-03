@@ -173,4 +173,4 @@ Detailed design notes available in: `docs/design-decisions.md`
 ## 👩‍💻 Author
 **Nikhitha Baby**  
 Senior Data Engineer | Databricks | Spark | Azure | Healthcare Data Engineering  
-5+ years of experience building scalable batch & streaming data pipelines for healthcare and financial analytics.
+7+ years of experience building scalable batch & streaming data pipelines for healthcare and financial analytics.
